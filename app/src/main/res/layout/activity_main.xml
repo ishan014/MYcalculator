@@ -15,7 +15,7 @@
         android:padding="10dp"
         android:text="@string/calc_text"
         android:gravity="end|bottom"
-        android:textSize="48sp"
+        android:textSize="47sp"
         />
 
     <LinearLayout
